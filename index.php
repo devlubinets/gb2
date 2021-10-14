@@ -21,7 +21,7 @@ class Order
 
     public function sendOrder():bool
     {
-        echo "Order has been recived";
+        echo "Order has been received";
         return true;
     }
 
